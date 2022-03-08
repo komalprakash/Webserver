@@ -1,1 +1,1 @@
-Webserver file created using NodeJS. Used to get the weather information of the place entered by the user. Geocoding has been used here 
+Webserver is a web app created using NodeJS. Used to get the weather information of the place entered by the user. Geocoding has been used here 
